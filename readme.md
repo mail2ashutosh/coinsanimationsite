@@ -6,6 +6,12 @@ This project brings a burst of flipping coins to life with an eye-catching anima
 
 The primary goal is to deliver a smooth and optimized coin flip animation, ensuring an immersive visual experience.
 
+## Preview Video
+
+To download the video, click the link below and then click on the "View raw" link to save the file to your computer.
+
+[Download Preview Video (coin-animation.mp4)](preview/scoin-animation.mp4)
+
 ### **Key Features**
 
 - **Coin Flip Animation**: Uses a series of textures (`coin_0` to `coin_6`) to create a realistic flipping effect.
