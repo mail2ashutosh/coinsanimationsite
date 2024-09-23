@@ -1,0 +1,95 @@
+{
+  "alpha": {
+    "list": [
+      {
+        "value": 0,
+        "time": 0
+      },
+      {
+        "value": 1,
+        "time": 0.2
+      },
+      {
+        "value": 0.8,
+        "time": 0.7
+      },
+      {
+        "value": 0,
+        "time": 1
+      }
+    ],
+    "isStepped": false
+  },
+  "scale": {
+    "list": [
+      {
+        "value": 0.4,
+        "time": 0
+      },
+      {
+        "value": 0.7,
+        "time": 0.5
+      },
+      {
+        "value": 0.8,
+        "time": 1
+      }
+    ],
+    "minimumScaleMultiplier": 0.7,
+    "isStepped": false
+  },
+  "speed": {
+    "list": [
+      {
+        "value": 200,
+        "time": 0
+      },
+      {
+        "value": 350,
+        "time": 0.4
+      },
+      {
+        "value": 150,
+        "time": 1
+      }
+    ],
+    "minimumSpeedMultiplier": 0.75,
+    "isStepped": false
+  },
+  "acceleration": {
+    "x": 0,
+    "y": 0
+  },
+  "startRotation": {
+    "min": -360,
+    "max": 360
+  },
+  "rotationSpeed": {
+    "min": 160,
+    "max": 240
+  },
+  "rotationAcceleration": 0,
+  "lifetime": {
+    "min": 2.5,
+    "max": 3
+  },
+  "blendMode": "normal",
+  "frequency": 0.025,
+  "emitterLifetime": 2.2,
+  "maxParticles": 15,
+  "pos": {
+    "x": 0,
+    "y": 0
+  },
+  "addAtBack": false,
+  "spawnType": "point",
+  "textures": [
+    "assets/animations/coins/coin_0.webp",
+    "assets/animations/coins/coin_1.webp",
+    "assets/animations/coins/coin_2.webp",
+    "assets/animations/coins/coin_3.webp",
+    "assets/animations/coins/coin_4.webp",
+    "assets/animations/coins/coin_5.webp",
+    "assets/animations/coins/coin_6.webp"
+  ]
+}
