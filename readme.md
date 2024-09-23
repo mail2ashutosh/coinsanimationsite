@@ -10,7 +10,7 @@ The primary goal is to deliver a smooth and optimized coin flip animation, ensur
 
 To download the video, click the link below and then click on the "View raw" link to save the file to your computer.
 
-[Download Preview Video (coin-animation.mp4)](preview/scoin-animation.mp4)
+[Download Preview Video (coin-animation.mp4)](preview/coin-animation.mp4)
 
 ### **Key Features**
 
